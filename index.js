@@ -1,2 +1,2 @@
 console.log('Hello world')
-console.log('dev 22')
+console.log('dev 2')
